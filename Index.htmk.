@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moldes para Bonecas de Pano</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background-color: #fff;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #5d4037;
+        }
+        p {
+            font-size: 1.1em;
+            line-height: 1.6em;
+        }
+        .download-link {
+            display: inline-block;
+            margin: 10px;
+            padding: 15px 30px;
+            background-color: #795548;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+        }
+        .download-link:hover {
+            background-color: #5d4037;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Bem-vinda, Bonequeira!</h1>
+        <p>Aqui você encontra moldes gratuitos de bonecas de pano para baixar. Clique nos links abaixo para fazer o download.</p>
+        
+        <a href="molde-boneca-1.pdf" class="download-link" download>Molde da Boneca Aurora</a>
+        <a href="molde-boneca-2.pdf" class="download-link" download>Molde do Boneco João</a>
+        
+        <p>Em caso de dúvidas, entre em contato!</p>
+    </div>
+
+</body>
+</html>
